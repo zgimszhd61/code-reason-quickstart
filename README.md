@@ -1,7 +1,7 @@
 # code-reason-quickstart
 ## prompt-1
 ```
-请把下面prompt转化成易于中国人阅读和理解的格式，只需要提供prompt原文，不要说其他无关内容。
+请把下面代码里的prompt抽取出来，并转化成易于中国人阅读和理解的格式，只需要提供prompt原文，不要说其他无关内容。
 -------
 {code}
 ```
